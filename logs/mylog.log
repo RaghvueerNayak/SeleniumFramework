@@ -1,0 +1,202 @@
+[INFO ] 2024-06-18 12:30:24.938 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 12:30:36.266 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 12:30:39.703 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 12:30:44.068 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 12:30:49.545 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 12:30:52.992 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 12:30:53.470 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 12:30:58.651 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 12:31:29.485 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 12:31:29.546 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 12:31:36.830 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 12:31:39.748 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 12:31:41.156 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 12:31:42.113 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 12:31:43.031 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 12:31:43.480 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 12:32:09.714 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 12:32:09.814 [main] AmazonWord - ***************Start Validate invalid Sign In  credentials (without Data driven )*****************
+[INFO ] 2024-06-18 12:32:14.105 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 12:32:15.692 [main] AmazonWord - Provided incorrect email address
+[INFO ] 2024-06-18 12:32:16.420 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 12:32:30.061 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 12:32:30.116 [main] AmazonWord - ***************Start Validate sign off *****************
+[INFO ] 2024-06-18 12:32:34.418 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 12:32:35.769 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 12:32:36.684 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 12:32:37.980 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 12:32:38.379 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 12:32:59.348 [main] AmazonWord - Sign off button clicked
+[INFO ] 2024-06-18 12:53:12.615 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 12:53:17.586 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 12:53:24.963 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 12:53:35.419 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 12:53:37.334 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 12:53:41.589 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 12:53:42.395 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 12:53:43.443 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 12:54:16.653 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 12:54:16.852 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 12:54:48.129 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 12:54:56.178 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 12:54:57.478 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 12:55:00.877 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 12:55:01.488 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 12:55:02.636 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 12:56:01.923 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 12:56:01.994 [main] AmazonWord - ***************Start Validate invalid Sign In  credentials (without Data driven )*****************
+[INFO ] 2024-06-18 12:56:13.845 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 12:56:15.387 [main] AmazonWord - Provided incorrect email address
+[INFO ] 2024-06-18 12:56:19.564 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 12:57:02.304 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 12:57:02.360 [main] AmazonWord - ***************Start Validate sign off *****************
+[INFO ] 2024-06-18 12:57:12.882 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 12:57:15.814 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 12:57:19.997 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 12:57:20.724 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 12:57:22.075 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 12:57:48.172 [main] AmazonWord - Sign off button clicked
+[INFO ] 2024-06-18 17:06:53.849 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:06:56.665 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 17:07:01.844 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 17:07:12.483 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:07:16.275 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:07:25.704 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:07:26.086 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:07:26.495 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:08:28.613 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:08:28.629 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 17:08:29.528 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 17:08:32.503 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:08:34.271 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:08:35.413 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:08:35.598 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:08:35.757 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:09:05.565 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:09:05.646 [main] AmazonWord - ***************Start Validate invalid Sign In  credentials (without Data driven )*****************
+[INFO ] 2024-06-18 17:09:07.430 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:09:07.673 [main] AmazonWord - Provided incorrect email address
+[INFO ] 2024-06-18 17:09:11.713 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:09:30.895 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:09:30.969 [main] AmazonWord - ***************Start Validate sign off *****************
+[INFO ] 2024-06-18 17:09:33.685 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:09:35.054 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:09:36.567 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:09:36.680 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:09:36.844 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:09:45.111 [main] AmazonWord - Sign off button clicked
+[INFO ] 2024-06-18 17:28:29.882 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:28:34.609 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 17:28:49.335 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 17:29:02.587 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:29:05.872 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:29:11.012 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:29:14.116 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:29:35.181 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:30:08.301 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:30:08.465 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 17:30:13.236 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 17:30:21.523 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:30:24.019 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:30:26.717 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:30:27.351 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:30:28.141 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:31:04.655 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:31:04.711 [main] AmazonWord - ***************Start Validate invalid Sign In  credentials (without Data driven )*****************
+[INFO ] 2024-06-18 17:31:13.128 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:31:16.525 [main] AmazonWord - Provided incorrect email address
+[INFO ] 2024-06-18 17:31:19.322 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:31:40.903 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:31:41.154 [main] AmazonWord - ***************Start Validate sign off *****************
+[INFO ] 2024-06-18 17:31:52.283 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:31:55.080 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:31:59.885 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:32:00.676 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:32:01.610 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:32:35.861 [main] AmazonWord - Sign off button clicked
+[INFO ] 2024-06-18 17:39:12.623 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:39:17.044 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 17:39:22.610 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 17:39:28.718 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:39:33.420 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:39:34.930 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:39:37.054 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:39:37.746 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:40:34.836 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:40:34.876 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 17:40:37.823 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 17:40:46.743 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:40:47.533 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:40:50.850 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:40:51.343 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:40:52.016 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:41:36.585 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:41:36.826 [main] AmazonWord - ***************Start Validate invalid Sign In  credentials (without Data driven )*****************
+[INFO ] 2024-06-18 17:41:47.320 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:41:49.558 [main] AmazonWord - Provided incorrect email address
+[INFO ] 2024-06-18 17:41:50.805 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:42:02.095 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:42:02.172 [main] AmazonWord - ***************Start Validate sign off *****************
+[INFO ] 2024-06-18 17:42:40.661 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:42:42.876 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:42:45.864 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:42:46.394 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:42:47.207 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:43:29.559 [main] AmazonWord - Sign off button clicked
+[INFO ] 2024-06-18 17:48:35.337 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:48:42.240 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 17:49:04.259 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 17:49:12.913 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:49:15.044 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:49:19.741 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:49:20.826 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:49:21.995 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:49:55.594 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:49:55.659 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-18 17:50:05.833 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-18 17:50:10.790 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:50:13.181 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:50:16.426 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:50:17.282 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:50:18.062 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:50:46.719 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:50:46.765 [main] AmazonWord - ***************Start Validate invalid Sign In  credentials (without Data driven )*****************
+[INFO ] 2024-06-18 17:50:59.503 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:51:01.617 [main] AmazonWord - Provided incorrect email address
+[INFO ] 2024-06-18 17:51:02.894 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:51:29.599 [main] AmazonWord - url opened
+[INFO ] 2024-06-18 17:51:29.662 [main] AmazonWord - ***************Start Validate sign off *****************
+[INFO ] 2024-06-18 17:51:37.107 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-18 17:51:39.134 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-18 17:51:41.641 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-18 17:51:42.156 [main] AmazonWord - Entered password
+[INFO ] 2024-06-18 17:51:42.843 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-18 17:52:21.633 [main] AmazonWord - Sign off button clicked
+[INFO ] 2024-06-19 13:25:26.946 [main] AmazonWord - url opened
+[INFO ] 2024-06-19 13:25:30.643 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-19 13:25:35.184 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-19 13:25:39.544 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-19 13:25:40.198 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-19 13:25:41.191 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-19 13:25:42.290 [main] AmazonWord - Entered password
+[INFO ] 2024-06-19 13:25:42.821 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-19 13:26:17.937 [main] AmazonWord - url opened
+[INFO ] 2024-06-19 13:26:18.010 [main] AmazonWord - ***************Start Validate valid Sign In  credentials (Data driven )*****************
+[INFO ] 2024-06-19 13:26:24.998 [main] AmazonWord - Option Books Selected
+[INFO ] 2024-06-19 13:26:27.817 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-19 13:26:28.451 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-19 13:26:30.053 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-19 13:26:30.392 [main] AmazonWord - Entered password
+[INFO ] 2024-06-19 13:26:30.820 [main] AmazonWord - Sign in button clicked
+[INFO ] 2024-06-19 13:26:57.465 [main] AmazonWord - url opened
+[INFO ] 2024-06-19 13:26:57.522 [main] AmazonWord - ***************Start Validate invalid Sign In  credentials (without Data driven )*****************
+[INFO ] 2024-06-19 13:27:02.767 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-19 13:27:03.421 [main] AmazonWord - Provided incorrect email address
+[INFO ] 2024-06-19 13:27:05.051 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-19 13:27:18.089 [main] AmazonWord - url opened
+[INFO ] 2024-06-19 13:27:18.117 [main] AmazonWord - ***************Start Validate sign off *****************
+[INFO ] 2024-06-19 13:27:26.393 [main] AmazonWord - Clicked on Sign In Button
+[INFO ] 2024-06-19 13:27:27.043 [main] AmazonWord - Provided correct email address
+[INFO ] 2024-06-19 13:27:28.638 [main] AmazonWord - Clicked on continue button
+[INFO ] 2024-06-19 13:27:29.067 [main] AmazonWord - Entered password
+[INFO ] 2024-06-19 13:27:29.497 [main] AmazonWord - Sign in button clicked
